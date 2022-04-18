@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SavoFats
 - 👀 I’m interested in blockchain and videogames
-- 🌱 I’m currently learning HTML e CSS
+- 🌱 I’m currently learning HTML, CSS & Javascript!
 - 💞️ I’m looking to collaborate on amazing projects
 - 📫 How to reach me: saveriograssi1@gmail.com
 
