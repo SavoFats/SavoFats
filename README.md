@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SavoFats
-- 👀 I’m interested in blockchain and videogames
+- 👀 IT Program and Project Manager
 - 🌱 I’m currently learning HTML, CSS & Javascript!
-- 💞️ I’m looking to collaborate on amazing projects
+- 💞️ I’m looking to collaborate on amazing projects!
 - 📫 How to reach me: saveriograssi1@gmail.com
 
 <!---
